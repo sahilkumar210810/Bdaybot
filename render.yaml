@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: bdaybot
+    runtime: php
+    buildCommand: composer install || true
+    startCommand: php -S 0.0.0.0:10000 index.php
