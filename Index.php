@@ -1,8 +1,8 @@
 <?php
 // ===== CONFIG =====
 $BOTS = [
-  "BOT_TOKEN_1",
-  "BOT_TOKEN_2",
+  "5758296224:AAFov4wERpro_jN_55SPa4C3_edmdUcQEpU",
+  "5105477515:AAHs_KuqtP5kYikZ2R5-qmag0tBTrDZr5xE",
   // up to 10
 ];
 
