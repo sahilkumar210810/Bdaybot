@@ -8,7 +8,8 @@ $BOTS = [
 
 // Only these users can use commands
 $ALLOWED_USERS = [
-  5374210828, // your ID
+  5374210828,// your ID
+  7246595801
 ];
 
 $MAX_COUNT = 2000;     // high but safe
